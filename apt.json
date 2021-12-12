@@ -1,0 +1,1 @@
+{"name": "APT16", "domain": "enterprise-attack", "techniques": [{"techniqueID": "T1584.004", "title": "Compromise Infrastructure: Server"}],"softwares":[{"softwareID":"S0064", "title": "ELMER"}]}
